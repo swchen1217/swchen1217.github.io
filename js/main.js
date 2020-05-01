@@ -20,11 +20,11 @@ jQuery(document).ready(function( $ ) {
 
   // JavaScript Chart
   var doughnutData = [{
-      value: 50,
+      value: 60,
       color: "#1abc9c"
     },
     {
-      value: 50,
+      value: 40,
       color: "#ecf0f1"
     }
   ];
@@ -32,11 +32,11 @@ jQuery(document).ready(function( $ ) {
 
   // Bootstrap Chart
   var doughnutData = [{
-    value: 50,
+    value: 80,
     color: "#1abc9c"
   },
   {
-    value: 50,
+    value: 20,
     color: "#ecf0f1"
   }
   ];
@@ -44,11 +44,11 @@ jQuery(document).ready(function( $ ) {
 
   // WordPress Chart
   var doughnutData = [{
-    value: 50,
+    value: 80,
     color: "#1abc9c"
   },
   {
-    value: 50,
+    value: 20,
     color: "#ecf0f1"
   }
   ];
@@ -56,11 +56,11 @@ jQuery(document).ready(function( $ ) {
 
   // HTML Chart
   var doughnutData = [{
-    value: 50,
+    value: 70,
     color: "#1abc9c"
   },
   {
-    value: 50,
+    value: 30,
     color: "#ecf0f1"
   }
   ];
@@ -68,11 +68,11 @@ jQuery(document).ready(function( $ ) {
 
   // Photoshop Chart
   var doughnutData = [{
-    value: 50,
+    value: 60,
     color: "#1abc9c"
   },
   {
-    value: 50,
+    value: 40,
     color: "#ecf0f1"
   }
   ];
@@ -80,11 +80,11 @@ jQuery(document).ready(function( $ ) {
 
   // Illustrator Chart
   var doughnutData = [{
-    value: 50,
+    value: 70,
     color: "#1abc9c"
   },
   {
-    value: 50,
+    value: 30,
     color: "#ecf0f1"
   }
   ];
@@ -92,11 +92,11 @@ jQuery(document).ready(function( $ ) {
   
   // Project Chart
   var doughnutData = [{
-    value: 50,
+    value: 70,
     color: "#1abc9c"
   },
   {
-    value: 50,
+    value: 30,
     color: "#ecf0f1"
   }
   ];
@@ -104,11 +104,11 @@ jQuery(document).ready(function( $ ) {
   
   // Algorithm Chart
   var doughnutData = [{
-    value: 50,
+    value: 20,
     color: "#1abc9c"
   },
   {
-    value: 50,
+    value: 80,
     color: "#ecf0f1"
   }
   ];
@@ -116,11 +116,11 @@ jQuery(document).ready(function( $ ) {
   
   // Security Chart
   var doughnutData = [{
-    value: 50,
+    value: 10,
     color: "#1abc9c"
   },
   {
-    value: 50,
+    value: 90,
     color: "#ecf0f1"
   }
   ];
